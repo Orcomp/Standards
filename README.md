@@ -9,6 +9,8 @@ Standards used for our projects:
 
 You must have [Stylecop](https://stylecop.codeplex.com/) installed. If not install it and restart your computer.
 
+The project structure is also described here: http://blog.catenalogic.com/post/2012/04/04/Setting-output-directories-of-projects.aspx
+
 Recommendations
 ===============
 
