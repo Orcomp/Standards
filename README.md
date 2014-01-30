@@ -44,6 +44,9 @@ Please see: https://github.com/Orcomp/SolutionGenerator
 # Coding Standards
 
 - With and without comments being required.
+- Underscores for private fields
+- Remove This. keywords
+- Use regions as little as possible.
 
 # Repository
 
