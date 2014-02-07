@@ -43,14 +43,18 @@ Please see: https://github.com/Orcomp/SolutionGenerator
 
 # Coding Standards
 
-- With and without comments being required.
-- Underscores for private fields
-- Remove This. keywords
-- Use regions as little as possible.
+We follow 99.9% of the standards outline here: https://csharpguidelines.codeplex.com/
+
+The only differences are:
+
+- Use underscores for private fields ```(private string _myString;)```
+- Remove ```This.``` keywords
+- Use regions as little as possible. ([I Hate #Regions](http://visualstudiogallery.msdn.microsoft.com/0ca60d35-1e02-43b7-bf59-ac7deb9afbca) VS extension.)
 
 # Repository
 
-- Project guidelines (coding standards and project structure) are found in the "doc" folder
+- Project guidelines (coding standards and project structure) are found in the "doc" folder.)
+- Summary of project guidelines: http://www.geertvanhorrik.com/2012/04/04/setting-output-directories-of-projects/
 - Stylecop settings we follow
 - gitignore file
 

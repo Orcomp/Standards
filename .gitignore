@@ -74,6 +74,7 @@ publish
 
 # NuGet Packages Directory. Use Nuget Restore, to restore your packages
 packages
+.[Nn]uget/
 
 # Windows Azure Build Output
 csx
