@@ -80,4 +80,5 @@ You must have [Stylecop](https://stylecop.codeplex.com/) installed. If not insta
 	- https://github.com/SonarCommunity/sonar-dotnet
 - [SonarQube Resharper plugin](https://github.com/SonarCommunity/sonar-dotnet-resharper)
 - [Resharper InspectCode](http://confluence.jetbrains.com/display/NETCOM/Introducing+InspectCode)
+	- with [viewer](http://weblogs.asp.net/fbouma/jetbrains-inspectcode-result-file-viewer)
 - [Resharper dupFinder](http://confluence.jetbrains.com/display/NETCOM/Introducing+ReSharper+Command+Line+Tools)
